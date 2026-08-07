@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Erix
 
 > he/him · Software Engineering · LLM Inference Acceleration
 
