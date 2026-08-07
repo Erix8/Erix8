@@ -1,20 +1,17 @@
 ## Hi there 👋
 
-🌱 I’m currently major in software engineering and learning llms
+> he/him · Software Engineering · LLM Inference Acceleration
 
-<!--
-**Erix8/Erix8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A software engineering student currently focused on **large language model inference acceleration** algorithms.  
+📚 Sharing my learning journey and projects here on GitHub — always open to connect!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- snake -->
+### 📊 Contribution Snake
 ![snake](https://raw.githubusercontent.com/Erix8/Erix8/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erix8/Erix8/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erix8/Erix8/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erix8/Erix8/output/dist/github-contribution-grid-snake.svg">
+</picture>
