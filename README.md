@@ -5,6 +5,8 @@
 🎓 A software engineering student currently focused on **large language model inference acceleration** algorithms.  
 📚 Sharing my learning journey and projects here on GitHub — always open to connect!
 
+![snake](https://raw.githubusercontent.com/Erix8/Erix8/output/github-contribution-grid-snake.svg)
+
 ### 📚 Self Study
 
 > 🧑‍💻 Exploring beyond the classroom — courses I'm self-studying.
@@ -39,7 +41,3 @@
 [SysY Compiler]: https://github.com/401A-Coding/thss-2025-compiler-final
 [Automata Regex]: https://github.com/Erix8/thss-2025-automata
 [Algorithm Assignments]: https://github.com/Erix8/thss-2025-algorithm
-
-### 📊 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/Erix8/Erix8/output/github-contribution-grid-snake.svg)
