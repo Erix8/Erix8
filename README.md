@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently major in software engineering and learning llms
+
 <!--
 **Erix8/Erix8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
