@@ -26,7 +26,7 @@
 
 > 🗂️ Some of my homework & lab solutions for fellow students — hope they help!
 
-| Course | Semester | Labs |
+| Course | Semester | Repo |
 |--------|----------|------|
 | Computer Network | Autumn 2025 | [FTP Lab] · [Router Lab] |
 | Principles of Database Systems | Spring 2026 | [TDB Lab] |
