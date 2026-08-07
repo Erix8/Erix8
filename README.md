@@ -16,6 +16,7 @@
 | Language Modeling from Scratch | Stanford CS336, Spring 2026 | *Incoming...* |
 | Natural Language Processing with Deep Learning | Stanford CS224N, Spring 2024 | *Incoming...* |
 
+[Xv6 RISCV Labs]: https://github.com/Erix8/xv6-labs-2022
 [CS:APP Labs]: https://github.com/Erix8/csapp3e-labs
 
 
@@ -25,27 +26,19 @@
 
 | Course | Semester | Labs |
 |--------|----------|------|
-| Computer Organization Principle | Autumn 2025 | [DataLab] · [AttackLab] · [ArchLab] |
 | Computer Network | Autumn 2025 | [FTP Lab] · [Router Lab] |
 | Principles of Database Systems | Spring 2026 | [TDB Lab] |
 | Assembly & Compilation Principles | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
-| Modern Operating Systems | Spring 2025 | [Xv6 RISCV Labs] |
 | Formal Language & Automata | Spring 2025 | [Automata Regex] |
 | Introduction to Algorithms | Spring 2025 | [Algorithm Assignments] |
-| Software Analysis & Verification | Spring 2026 | [CMinor Verifier] |
 
-[DataLab]: https://github.com/Erix8/csapp3e-labs/tree/main/DataLab
-[AttackLab]: https://github.com/Erix8/csapp3e-labs/tree/main/AttackLab
-[ArchLab]: https://github.com/Erix8/csapp3e-labs/tree/main/ArchLab
 [FTP Lab]: https://github.com/Erix8/thss-2025-FTPLab
 [Router Lab]: https://github.com/Erix8/cs118-SimpleRouter
 [TDB Lab]: https://github.com/Erix8/thss-2026-TDB
 [Compiler PAs]: https://github.com/Erix8/thss-2025-compiler
 [SysY Compiler]: https://github.com/401A-Coding/thss-2025-compiler-final
-[Xv6 RISCV Labs]: https://github.com/Erix8/xv6-labs-2022
 [Automata Regex]: https://github.com/Erix8/thss-2025-automata
 [Algorithm Assignments]: https://github.com/Erix8/thss-2025-algorithm
-[CMinor Verifier]: https://github.com/Erix8/thss-2026-CMinor-Verifier
 
 ### 📊 Contribution Snake
 
