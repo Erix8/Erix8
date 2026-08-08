@@ -12,7 +12,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |34100373| Data Structure | Autumn 2024 | [Data Structure PAs] |
 |44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
-|44100563| Formal Language & Automata | Spring 2025 | *Incoming...* |
+|44100563| Formal Language & Automata | Spring 2025 | [Automata Labs] |
 |44100573| Computer Organization Principle | Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab]|
 |44100113| Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
 |44100593| Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
@@ -36,6 +36,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 [CMinor Verifier]: https://github.com/Erix8/thss-2026-CMinor-Verifier
 [Data Structure PAs]: https://github.com/Erix8/thss-2024-datastructure
 [Machine Learning PAs]: https://github.com/Erix8/thss-ml-2026
+[Automata Labs]: https://github.com/Erix8/thss-2025-automata
 
 ## Appendix
 
