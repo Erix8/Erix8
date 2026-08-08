@@ -8,7 +8,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 
 |#| Course | Semester | Repo |
 |-|--------|----------|------|
-|24100013| Discrete Mathematics(2) | Spring 2024 | *Incoming...* |
+|24100013| Discrete Mathematics(2) | Spring 2024 | [Graph Theory PAs] |
 |34100373| Data Structure | Autumn 2024 | [Data Structure PAs] |
 |44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
@@ -21,6 +21,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |44100603| Software analysis and verification | Spring 2026 | [CMinor Verifier] |
 |84100343| Deep Learning | Autumn 2026 | *Incoming...* |
 
+[Graph Theory PAs]: https://github.com/Erix8/thss-2024-graphtheory
 [Data Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/DataLab
 [Attack Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/AttackLab
 [Arch Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/ArchLab
