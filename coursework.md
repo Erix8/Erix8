@@ -12,13 +12,14 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |34100373| Data Structure | Autumn 2024 | [Data Structure PAs] |
 |44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
-|44100573|Computer Organization Principle| Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab]|
+|44100563| Formal Language & Automata | Spring 2025 | *Incoming...* |
+|44100573| Computer Organization Principle | Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab]|
 |44100113| Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
+|44100593| Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
 |44100552| Machine Learning | Spring 2026 | *Incoming...* |
 |34100173| Principles of Database Systems | Spring 2026 | [TDB Lab] |
-|44100593| Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
-|44100563| Formal Language & Automata | Spring 2025 | *Incoming...* |
-|44100603|Software analysis and verification| Spring 2026 | [CMinor Verifier] |
+|44100603| Software analysis and verification | Spring 2026 | [CMinor Verifier] |
+|84100343| Deep Learning | Autumn 2026 | *Incoming...* |
 
 [Data Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/DataLab
 [Attack Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/AttackLab
