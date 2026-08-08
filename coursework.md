@@ -9,14 +9,14 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |#| Course | Semester | Repo |
 |-|--------|----------|------|
 |24100013| Discrete Mathematics(2) | Spring 2024 | *Incoming...* |
-|34100373| Data Structure | Autumn 2024 | *Incoming...* |
+|34100373| Data Structure | Autumn 2024 | [Data Structure PAs] |
+|44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
 |44100573|Computer Organization Principle| Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab]|
 |44100113| Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
 |44100552| Machine Learning | Spring 2026 | *Incoming...* |
 |34100173| Principles of Database Systems | Spring 2026 | [TDB Lab] |
 |44100593| Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
-|44100582| Introduction to Algorithms | Spring 2025 | [Algorithm Assignments] |
 |44100563| Formal Language & Automata | Spring 2025 | *Incoming...* |
 |44100603|Software analysis and verification| Spring 2026 | [CMinor Verifier] |
 
@@ -30,8 +30,9 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 [Compiler PAs]: https://github.com/Erix8/thss-2025-compiler
 [SysY Compiler]: https://github.com/401A-Coding/thss-2025-compiler-final
 [Automata Regex]: https://github.com/Erix8/thss-2025-automata
-[Algorithm Assignments]: https://github.com/Erix8/thss-2025-algorithm
+[Algorithm PAs]: https://github.com/Erix8/thss-2025-algorithm
 [CMinor Verifier]: https://github.com/Erix8/thss-2026-CMinor-Verifier
+[Data Structure PAs]: https://github.com/Erix8/thss-2024-datastructure
 
 ## Appendix
 
