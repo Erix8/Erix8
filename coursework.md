@@ -9,6 +9,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |#| Course | Semester | Repo |
 |-|--------|----------|------|
 |24100013| Discrete Mathematics(2) | Spring 2024 | [Graph Theory PAs] |
+|34100232| Practical Training For Programming | Summer 2024 | [Qt Combat Game] |
 |34100373| Data Structure | Autumn 2024 | [Data Structure PAs] |
 |44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
@@ -22,6 +23,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |44100603| Software analysis and verification | Spring 2026 | [CMinor Verifier] |
 |84100343| Deep Learning | Autumn 2026 | *Incoming...* |
 
+[Qt Combat Game]: https://github.com/Erix8/thss-2024-QtGame
 [Graph Theory PAs]: https://github.com/Erix8/thss-2024-graphtheory
 [AI Assistant]: https://github.com/401A-Coding/thss-2025-ai-assistant
 [Data Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/DataLab
