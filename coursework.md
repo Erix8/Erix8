@@ -13,6 +13,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
 |44100563| Formal Language & Automata | Spring 2025 | [Automata Labs] |
+|34100152| Practice of Programming | Summer 2025 | [AI Assistant] |
 |44100573| Computer Organization Principle | Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab]|
 |44100113| Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
 |44100593| Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
@@ -22,6 +23,7 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |84100343| Deep Learning | Autumn 2026 | *Incoming...* |
 
 [Graph Theory PAs]: https://github.com/Erix8/thss-2024-graphtheory
+[AI Assistant]: https://github.com/401A-Coding/thss-2025-ai-assistant
 [Data Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/DataLab
 [Attack Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/AttackLab
 [Arch Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/ArchLab
