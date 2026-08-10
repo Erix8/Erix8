@@ -2,8 +2,7 @@
 
 > he/him · Software Engineering · LLM Inference Acceleration
 
-🎓 A software engineering student currently focused on **large language model inference acceleration** algorithms.  
-📚 Sharing my learning journey and projects here on GitHub — always open to connect!
+🎓 A software engineering student sharing my learning journey and projects here on GitHub — always open to connect!
 
 ### 📂 Learning Resources
 
