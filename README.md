@@ -10,9 +10,7 @@
 - 📚 **[Self Study](./self-study.md)** — courses I'm exploring beyond the classroom
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Erix8&theme=vue" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
