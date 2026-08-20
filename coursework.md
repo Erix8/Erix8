@@ -21,6 +21,8 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 |44100552| Machine Learning | Spring 2026 | [Machine Learning PAs] |
 |34100173| Principles of Database Systems | Spring 2026 | [TDB Lab] |
 |44100603| Software analysis and verification | Spring 2026 | [CMinor Verifier] |
+|44100512| Big Data System Software | Autumn 2026 | *Incoming...* |
+|44100652| The Fundamental of Computer Graphics | Autumn 2026 | *Incoming...* |
 |84100343| Deep Learning | Autumn 2026 | *Incoming...* |
 
 [Qt Combat Game]: https://github.com/Erix8/thss-2024-QtGame
