@@ -11,7 +11,7 @@
 
 ### 🌱 My learning journey
 
-- 📖 **[Coursework](./coursework.md)** — homework & lab solutions from my courses
+- 📖 **[Coursework](./coursework.md)** — homework & lab solutions from my courses, **read [Appendix](./coursework.md#appendix) first !!!!**
 - 📚 **[Self Study](./self-study.md)** — courses I'm exploring beyond the classroom
 
 > 💬 Feel free to reach out — collaboration and friendly discussions are always welcome! ✨
