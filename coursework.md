@@ -2,28 +2,28 @@
 
 > 🗂️ Some of my homework & lab solutions for fellow students — hope they help!
 
-**Contributions welcome!**
+**🙌 Contributions welcome!**
 
-Issues, PRs, corrections, materials — all are welcome! It's the community's attention, maintenance, and contributions that keep this resource going~
+Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community's attention, maintenance, and contributions that keep this resource going~ Let's build something awesome together! 💪
 
 |#| Course | Semester | Repo |
 |-|--------|----------|------|
-|24100013| Discrete Mathematics(2) | Spring 2024 | [Graph Theory PAs] |
-|34100232| Practical Training For Programming | Summer 2024 | [Qt Combat Game] |
-|34100373| Data Structure | Autumn 2024 | [Data Structure PAs] |
-|44100582| Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
-|34100053| Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
-|44100563| Formal Language & Automata | Spring 2025 | [Automata Labs] |
-|34100152| Practice of Programming | Summer 2025 | [AI Assistant] |
-|44100573| Computer Organization Principle | Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab]|
-|44100113| Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
-|44100593| Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
-|44100552| Machine Learning | Spring 2026 | [Machine Learning PAs] |
-|34100173| Principles of Database Systems | Spring 2026 | [TDB Lab] |
-|44100603| Software analysis and verification | Spring 2026 | [CMinor Verifier] |
-|44100512| Big Data System Software | Autumn 2026 | *Incoming...* |
-|44100652| The Fundamental of Computer Graphics | Autumn 2026 | *Incoming...* |
-|84100343| Deep Learning | Autumn 2026 | *Incoming...* |
+|24100013| 🔢 Discrete Mathematics(2) | Spring 2024 | [Graph Theory PAs] |
+|34100232| 💻 Practical Training For Programming | Summer 2024 | [Qt Combat Game] |
+|34100373| 🧮 Data Structure | Autumn 2024 | [Data Structure PAs] |
+|44100582| 🧮 Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
+|34100053| ⚙️ Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
+|44100563| 🔤 Formal Language & Automata | Spring 2025 | [Automata Labs] |
+|34100152| 🤖 Practice of Programming | Summer 2025 | [AI Assistant] |
+|44100573| 💾 Computer Organization Principle | Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab] |
+|44100113| 🌐 Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
+|44100593| 🧾 Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
+|44100552| 🤖 Machine Learning | Spring 2026 | [Machine Learning PAs] |
+|34100173| 🗄️ Principles of Database Systems | Spring 2026 | [TDB Lab] |
+|44100603| 🧾 Software analysis and verification | Spring 2026 | [CMinor Verifier] |
+|44100512| 🗄️ Big Data System Software | Autumn 2026 | 🔜 Incoming... |
+|44100652| 🖼️ The Fundamental of Computer Graphics | Autumn 2026 | 🔜 Incoming... |
+|84100343| 🧠 Deep Learning | Autumn 2026 | 🔜 Incoming... |
 
 [Qt Combat Game]: https://github.com/Erix8/thss-2024-QtGame
 [Graph Theory PAs]: https://github.com/Erix8/thss-2024-graphtheory
@@ -43,6 +43,8 @@ Issues, PRs, corrections, materials — all are welcome! It's the community's at
 [Data Structure PAs]: https://github.com/Erix8/thss-2024-datastructure
 [Machine Learning PAs]: https://github.com/Erix8/thss-ml-2026
 [Automata Labs]: https://github.com/Erix8/thss-2025-automata
+
+> 📬 If you find a bug or have a better solution, don't hesitate to open an issue or PR — every contribution counts! 🌟
 
 ## Appendix
 
