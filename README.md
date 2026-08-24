@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Erix
-> he/him · Software Engineering · Tsinghua University
+> he/him · Software Engineering undergraduate· Tsinghua University
 
 ### 🧑‍🚀 About me
 
 🎓 A software engineering undergraduate sharing my learning journey and projects here on GitHub
-- 💻 Deeply into **Software Engineering** & **LLM Inference Acceleration**
+- 💻 Deeply into **Computer Science** & **Software Engineering**
 - 🚀 Treating GitHub as my digital notebook — one commit at a time
 - ☕ Powered by coffee, curiosity, and a little too much debugging
 - 🤝 Always happy to chat, learn, and collaborate with fellow devs
