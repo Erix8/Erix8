@@ -6,20 +6,23 @@
 | Source | Semester | Repo | Status |
 |--------|------|------|--------|
 | [MIT 6.1810] Operating System Engineering | Fall 2022 | [Xv6 RISCV Labs] | 🔄 In progress |
-| [CMU 15-213] Introduction to Computer Systems | - | [CS:APP Labs] | 🔄 In progress |
-| [Stanford CS224N] NLP with Deep Learning | Spring 2024 | [NLP Assignments] | 🔄 In progress |
-| [Stanford CS336] Language Modeling from Scratch | Spring 2026 | [CS366 Assignments] | 🔄 In progress |
+| [CMU 15-213] Introduction to Computer Systems | Handouts | [CS:APP Labs] | ⏲️ Back later |
+| [Stanford CS224N] NLP with Deep Learning | Spring 2024 | [CS224n Assignments] | 🔄 In progress |
+| [Stanford CS231N] Deep Learning for Computer Vision | Spring 2026 | [CS231n Assignments] | ⬜ Not started |
+| [Stanford CS336] Language Modeling from Scratch | Spring 2026 | [CS366 Assignments] | ⬜ Not started |
 
 > 💡 **Why I love self-studying**: it's like a buffet of knowledge — I get to pick exactly what excites me! 🍽️✨
 
 [Stanford CS336]: https://cs336.stanford.edu
 [Stanford CS224N]: https://web.stanford.edu/class/cs224n
+[Stanford CS231N]: https://cs231n.stanford.edu
 [MIT 6.1810]: https://pdos.csail.mit.edu/6.1810
 [CMU 15-213]: https://www.cs.cmu.edu/~213
 
 [Xv6 RISCV Labs]: https://github.com/Erix8/xv6-labs-2022
 [CS:APP Labs]: https://github.com/Erix8/csapp3e-labs
 [CS366 Assignments]: https://github.com/Erix8/cs336-assignments-2026
-[NLP Assignments]: https://github.com/Erix8/cs224n-assignments-2024
+[CS224n Assignments]: https://github.com/Erix8/cs224n-assignments-2024
+[CS231n Assignments]: https://github.com/Erix8/cs231n-assignments-2026
 [miniBERT]: https://github.com/Erix8/cs224n-miniBERT-2024
 
