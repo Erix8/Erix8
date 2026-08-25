@@ -10,6 +10,7 @@
 | [Stanford CS224N] NLP with Deep Learning | Spring 2024 | [CS224n Assignments] | ✅ 4/4 GPU training pending |
 | [Stanford CS231N] Deep Learning for Computer Vision | Spring 2026 | [CS231n Assignments] | ⬜ 0/4 Not started |
 | [Stanford CS336] Language Modeling from Scratch | Spring 2026 | [CS366 Assignments] | 🔄 0/4 In progress |
+| [MIT 6.5940] TinyML and Efficient AI Computing | Fall 2026 | *In comming* | ⬜ 0/5 Not started |
 
 > 💡 **Why I love self-studying**: it's like a buffet of knowledge — I get to pick exactly what excites me! 🍽️✨
 
@@ -18,6 +19,7 @@
 [Stanford CS231N]: https://cs231n.stanford.edu
 [MIT 6.1810]: https://pdos.csail.mit.edu/6.1810
 [CMU 15-213]: https://www.cs.cmu.edu/~213
+[MIT 6.5940]: https://hanlab.mit.edu/courses/2026-fall-65940
 
 [Xv6 RISCV Labs]: https://github.com/Erix8/xv6-labs-2022
 [CS:APP Labs]: https://github.com/Erix8/csapp3e-labs
