@@ -15,9 +15,9 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 |34100053| ⚙️ Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
 |44100563| 🔤 Formal Language & Automata | Spring 2025 | [Automata Labs] |
 |34100152| 🤖 Practice of Programming | Summer 2025 | [AI Assistant] |
-|44100573| 💾 Computer Organization Principle | Autumn 2025| [Data Lab] · [Attack Lab] · [Arch Lab] |
+|44100573| 💾 Computer Organization Principle | Autumn 2025| [CS:APP Labs] |
 |44100113| 🌐 Computer Networks | Autumn 2025 | [FTP Lab] · [Router Lab] |
-|44100593| 🧾 Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY Compiler] |
+|44100593| 🧾 Principles of Assembly and Compilation | Autumn 2025 | [Compiler PAs] · [SysY] |
 |44100552| 🤖 Machine Learning | Spring 2026 | [Machine Learning PAs] |
 |34100173| 🗄️ Principles of Database Systems | Spring 2026 | [TDB Lab] |
 |44100603| 🧾 Software analysis and verification | Spring 2026 | [CMinor Verifier] |
@@ -28,15 +28,13 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 [Qt Combat Game]: https://github.com/Erix8/thss-2024-QtGame
 [Graph Theory PAs]: https://github.com/Erix8/thss-2024-graphtheory
 [AI Assistant]: https://github.com/401A-Coding/thss-2025-ai-assistant
-[Data Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/DataLab
-[Attack Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/AttackLab
-[Arch Lab]: https://github.com/Erix8/csapp3e-labs/tree/main/ArchLab
+[CS:APP Labs]: https://github.com/Erix8/csapp3e-labs
 [Xv6 RISCV Labs]: https://github.com/Erix8/xv6-labs-2022
 [FTP Lab]: https://github.com/Erix8/thss-2025-FTPLab
 [Router Lab]: https://github.com/Erix8/cs118-SimpleRouter
 [TDB Lab]: https://github.com/Erix8/thss-2026-TDB
 [Compiler PAs]: https://github.com/Erix8/thss-2025-compiler
-[SysY Compiler]: https://github.com/401A-Coding/thss-2025-compiler-final
+[SysY]: https://github.com/401A-Coding/thss-2025-compiler-final
 [Automata Regex]: https://github.com/Erix8/thss-2025-automata
 [Algorithm PAs]: https://github.com/Erix8/thss-2025-algorithm
 [CMinor Verifier]: https://github.com/Erix8/thss-2026-CMinor-Verifier
