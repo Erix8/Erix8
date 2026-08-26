@@ -8,8 +8,8 @@
 | [MIT 6.1810] Operating System Engineering | Fall 2022 | [Xv6 RISCV Labs] | 🚧 8/10 Come back later |
 | [CMU 15-213] Introduction to Computer Systems | Handouts | [CS:APP Labs] | 🚧 3/9 Come back later |
 | [Stanford CS224N] NLP with Deep Learning | Spring 2024 | [CS224n Assignments] | ✅ 4/4 GPU training pending |
-| [Stanford CS231N] Deep Learning for Computer Vision | Spring 2026 | [CS231n Assignments] | ⬜ 0/4 Not started |
-| [Stanford CS336] Language Modeling from Scratch | Spring 2026 | [CS366 Assignments] | 🔄 0/4 In progress |
+| [Stanford CS231N] Deep Learning for Computer Vision | Spring 2026 | [CS231n Assignments] | 🔄 1/4 In progress |
+| [Stanford CS336] Language Modeling from Scratch | Spring 2026 | [CS366 Assignments] | ⬜ 0/4 In progress |
 | [MIT 6.5940] TinyML and Efficient AI Computing | Fall 2026 | *In comming* | ⬜ 0/5 Not started |
 
 > 💡 **Why I love self-studying**: it's like a buffet of knowledge — I get to pick exactly what excites me! 🍽️✨
