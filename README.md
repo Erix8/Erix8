@@ -11,8 +11,12 @@
 
 ### 🌱 My learning journey
 
-- 📖 **[Coursework](./coursework.md)** — homework & lab solutions from my courses, **read [Appendix](./coursework.md#appendix) first !!!!**
-- 📚 **[Self Study](./self-study.md)** — courses I'm exploring beyond the classroom
+- 📖 **[THSS Courseworks](./coursework.md)** — homework & lab solutions from my courses, **read [Appendix](./coursework.md#appendix) first !!!!**
+- 📚 **[My Self Study Courseworks](./self-study.md)** — courses I'm exploring beyond the classroom
+- 🎓 **[Tsinghua Recommendation Exam Solutions]** - based on [Shumeng OJ]
+
+[Tsinghua Recommendation Exam Solutions]: https://github.com/Erix8/thss-graduate-exams
+[Shumeng OJ]: https://oj.shumeng.tech
 
 > 💬 Feel free to reach out — collaboration and friendly discussions are always welcome! ✨
 
