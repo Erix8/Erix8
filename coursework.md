@@ -8,6 +8,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 
 |#| Course | Semester | Repo |
 |-|--------|----------|------|
+|34100362| 💻 Fundamentals of Object-Oriented Programming | Spring 2024 | [OOP PAs] |
 |24100013| 🔢 Discrete Mathematics(2) | Spring 2024 | [Graph Theory PAs] |
 |34100232| 💻 Practical Training For Programming | Summer 2024 | [Qt Combat Game] |
 |34100373| 🧮 Data Structure | Autumn 2024 | [Data Structure PAs] |
@@ -41,6 +42,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 [Data Structure PAs]: https://github.com/Erix8/thss-2024-datastructure
 [Machine Learning PAs]: https://github.com/Erix8/thss-ml-2026
 [Automata Labs]: https://github.com/Erix8/thss-2025-automata
+[OOP PAs]: https://github.com/Erix8/thss-2024-oop
 
 > 📬 If you find a bug or have a better solution, don't hesitate to open an issue or PR — every contribution counts! 🌟
 
